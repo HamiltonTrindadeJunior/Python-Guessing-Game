@@ -6,13 +6,19 @@ This is a simple guessing game in which the player must guess a number between 1
 
 How to Play:
 
-.Run the python file.
-.The game window will be opened.
-.Enter a number in the input box and press the "Teste" button.
-.If the entered number is equal to the secret number, a congratulations message will be displayed. Otherwise, a message indicating whether the secret number is .greater or smaller will be displayed, along with the number of remaining attempts.
-.The player will have 5 attempts to guess the secret number.
-.If the player runs out of attempts, a message will be displayed with the secret number.
-.To start a new game, press the "Jogar Novamente" button.
+Run the python file.
+
+The game window will be opened.
+
+Enter a number in the input box and press the "Teste" button.
+
+If the entered number is equal to the secret number, a congratulations message will be displayed. Otherwise, a message indicating whether the secret number is greater or smaller will be displayed, along with the number of remaining attempts.
+
+The player will have 5 attempts to guess the secret number.
+
+If the player runs out of attempts, a message will be displayed with the secret number.
+
+To start a new game, press the "Jogar Novamente" button.
 
 Prerequisites:
 
